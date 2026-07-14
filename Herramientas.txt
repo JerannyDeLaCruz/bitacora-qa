@@ -1,0 +1,4 @@
+Lista de 3 herramientas usadas en QA
+1.Excel
+2.Jira
+3.Azure
