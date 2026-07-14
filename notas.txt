@@ -4,3 +4,4 @@ Finalmente, aprendí la importancia del comando git diff para ver las diferencia
 Nueva Linea
 Primera linea
 Segunda Linea
+Esta es una línea correcta
